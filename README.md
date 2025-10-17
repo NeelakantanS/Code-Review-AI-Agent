@@ -1,1 +1,1 @@
-#This repo includes basic boilerplate setup of code review AI Agent#
+Automate your code review workflow with AI. Think “Semaphore + OpenAI for code.” Review pull requests, detect bugs, enforce coding standards, and generate actionable feedback — all via natural language commands. Example: “Review this PR for security issues and style violations, then create a summary report.”
